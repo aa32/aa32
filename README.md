@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aa32 , M.S. in Computer Science from Georgia tech
 - 👀 I’m interested in Machine Learning , Reinforcement Learning , Computer Vision and big Data stuff
-- 🌱 I’m currently learning graduate Level Data structure and Algorithms
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me anshuta.awas@gmail.com
+- 📫 How to reach me anshuta1.a@gmail.com
 
 <!---
 aa32/aa32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
