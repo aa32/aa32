@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @aa32 , M.S. in Computer Science from Georgia tech
-- 👀 I’m interested in Machine Learning , Reinforcement Learning , Computer Vision and big Data stuff
+
+I'm passionate about leveraging data to drive insights and solve complex problems. I've honed my skills in Python programming and data engineering to develop robust solutions for various data-related challenges.
+
+What I Do
+- Python Development: I specialize in developing efficient and scalable Python applications for data processing, analysis, and visualization.
+- Data Engineering: I design and implement data pipelines, ETL processes, and data architecture solutions to transform raw data into actionable insights.
+- Machine Learning: I have some experience in building and deploying machine learning models for predictive analytics and pattern recognition.
+- Big Data Technologies: I'm proficient in working with big data technologies such as Apache Spark, Hadoop, and distributed computing frameworks to handle large-scale data processing tasks.
 - 📫 How to reach me anshuta1.a@gmail.com
 
 <!---
